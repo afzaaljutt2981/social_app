@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Social App',
       theme: ThemeData(primarySwatch: Colors.deepOrange),
-      home: const MainPage(),
+      home: const MainPage(), 
     );
   }
 }
