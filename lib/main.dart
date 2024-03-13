@@ -16,6 +16,6 @@ class MyApp extends StatelessWidget {
       title: 'Social App',
       theme: ThemeData(primarySwatch: Colors.deepOrange),
       home: const MainPage(), 
-    );
+    ); 
   }
 }
